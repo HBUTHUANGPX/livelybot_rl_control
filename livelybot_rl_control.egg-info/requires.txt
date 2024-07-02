@@ -1,0 +1,9 @@
+isaacgym
+matplotlib
+mujoco-python-viewer
+mujoco==2.3.6
+numpy==1.23.5
+opencv-python
+tensorboard
+tqdm
+wandb
